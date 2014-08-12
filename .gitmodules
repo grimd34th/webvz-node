@@ -1,0 +1,3 @@
+[submodule "vzconsole"]
+	path = node_modules/vzconsole
+	url = https://github.com/timtty/vzconsole
